@@ -1,1 +1,1 @@
-# user-group-adminstration-bash
+# user group adminstration bash script
